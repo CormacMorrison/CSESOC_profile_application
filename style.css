@@ -1,0 +1,137 @@
+
+body {
+    background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),            linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),            linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    margin:0;
+    /* padding-top: 20px; */
+    
+    
+    
+}
+
+#topnavbar {
+    background: linear-gradient(#5d0f75, #242e9d);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    overflow: hidden;
+    float: left;
+    width: 100%;
+    /* padding-top: 0px !important; */
+
+
+}
+
+#topnavbar ul{
+    padding: 0;    
+    list-style: none;
+}
+
+#topnavbar li {
+    display: inline;
+}
+
+#topnavbar a{
+    color: rgb(218, 46, 218);
+    text-decoration: none;    
+    font-size: 18px;
+    padding-right: 15px;
+}
+
+#topnavbar a:hover{
+    font-size: 22px;
+}
+
+
+
+.container {
+    width: 60%;
+    margin: auto;
+    overflow: hidden;
+}
+
+
+#INFO {
+    background-position: center;
+    height: 300px;
+    margin-bottom: 120px;
+    list-style: none;
+}
+
+.Subtitle {
+    font-family: 'Barrio', cursive;
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 5px 5px #5d0f75;
+}
+
+.Subtitle:hover {
+    font-size: 50px;
+}
+
+
+
+.Subtitle2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow:3px 3px #5d0f75;
+    text-align: justify;
+    list-style: circle;
+    font-size: 20px;
+}
+.subtext {
+    list-style: none;
+}
+
+
+
+#Footer {
+    background: linear-gradient(#5d0f75, #242e9d);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    overflow: hidden;
+    float: left;
+    width: 100%;
+    list-style: none;
+}
+
+
+.CatGIF {
+    text-align: center;
+    padding-bottom: 300px;
+}
+
+.image {
+    border-radius: 10%;
+    text-align: center;
+
+}
+
+.subtext {
+    text-align: center;
+    font-size: 14px;
+}
+
+.tetris {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    width: 100%;
+}
+.text {
+    font-size: 16px;
+    text-align: center;
+}
+
+.Hobbies {
+    list-style: circle;
+    
+}
+
+
